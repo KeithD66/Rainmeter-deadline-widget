@@ -3,6 +3,7 @@
 A minimalist Rainmeter skin for conference deadline countdowns and event info.
 
 一个简洁的 Rainmeter 桌面挂件，用于显示会议名称、会议信息和截稿倒计时。
+（只是一个 Rainmeter 主题，要先有 Rainmeter 主体）
 
 ## Preview
 
